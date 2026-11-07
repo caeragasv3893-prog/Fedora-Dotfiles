@@ -2,4 +2,4 @@
 
 ## Still on development
 
-## Check later for updates
+Check later for updates
